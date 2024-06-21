@@ -1,7 +1,7 @@
 # Formação React Native DIO
 Curso DIO de React Native (Incluso projetos e tudo)
 
-## Primeiro Bloco de Aula
+## Bloco 1
 
 ### O que é React Native
 
