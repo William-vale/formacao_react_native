@@ -5,8 +5,8 @@ Curso DIO de React Native (Incluso projetos e tudo)
 
 ### O que é React Native
 
-`
+`` 
 - É um Framework Javascript
 - Parmite criar aplicações Mobile
-- Lançado em 2005
-` 
+- Lançado em 2005 
+``
