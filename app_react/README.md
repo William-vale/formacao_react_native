@@ -14,7 +14,8 @@ Expo -> (https://expo.dev/)
 
 No caso escolheremos, nesse projeto:
 > blank (TypeScript)
- 
+
+
 
 
 ### Solução interessante para você ver sua aplicação no Desktop
@@ -25,3 +26,10 @@ No caso escolheremos, nesse projeto:
 - Explicação detalhada (https://www.alura.com.br/artigos/como-fazer-a-migracao-do-expo-para-react-native-cli)
 - Serve especificamente para subir sua aplicação para a web de forma que você tenha mais opções de uso de ferramentas.
 - Mas é possivel sim criar projetos completos com Expo;
+
+### Coisas Interessantes
+- a pasta SRC que criamos no nosso projeto é onde usaremos os nossos arquivos de codificação;
+- Os arquivos fora da SRC são arquivos de configuração;
+- App.tsx á um arquivos hibrido, é onde carregamos tudo aquilo que fazemos na codificação;
+- Tudo dentro do React Native é um Componente;
+- <StatusBar> é onde eu posso mudar a parte cima do meu celular, fora da aplicação;

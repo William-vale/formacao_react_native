@@ -9,7 +9,7 @@ Curso DIO de React Native (Incluso projetos e tudo)
 
 - É um Framework Javascript
 
-- Permite criar aplicações Mobile
+- Parmite criar aplicações Mobile
 
 - Lançado em 2005
 
@@ -78,5 +78,13 @@ react component -> React Native -> (IOS | Android | Etc...)
 
 > Equivalentes de cada plataforma com o React Native
 
-![Equivalencia React Native para outras plataformas](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZGNePqbmhColZ6KPM_AbajaTBFF5_uvA7Cx5_cabiXxwAgKAe)
+![](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZGNePqbmhColZ6KPM_AbajaTBFF5_uvA7Cx5_cabiXxwAgKAe)
 
+### Links úteis para aprender React Native
+
+-   [https://reactnative.dev/](https://reactnative.dev/)
+-   [https://www.oreilly.com/library/view/learning-react-native/9781491929049/ch01.html](https://www.oreilly.com/library/view/learning-react-native/9781491929049/ch01.html)
+-   [https://www.netguru.com/glossary/react-native](https://www.netguru.com/glossary/react-native)
+
+Link para o Bloco 2
+[Bloco 2](https://github.com/William-vale/formacao_react_native/blob/main/app_react/README.md)
