@@ -1,5 +1,5 @@
 {
-  "name": "rn-app-dio",
+  "name": "bat-pass-app",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
@@ -9,16 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "@expo/metro-runtime": "~3.2.1",
+    "expo": "~51.0.17",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
-    "react-native": "0.74.2",
-    "react-native-web": "^0.19.12"
+    "react-native": "0.74.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.45",
-    "expo": "^51.0.17",
     "typescript": "^5.3.3"
   },
   "private": true
