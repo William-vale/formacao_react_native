@@ -2,8 +2,12 @@ import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
     container:{
-        padding: 20,
+        width: '100%',
+        paddingTop: 10,
+        paddingBottom: 10,
+        height: '100%',
         backgroundColor: '#333333',
+        display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
     },
@@ -20,7 +24,11 @@ const styles = StyleSheet.create({
         alignSelf: 'center',
       },
       inputContainer: {
-        
+        width: '60%',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
       },
 });
 

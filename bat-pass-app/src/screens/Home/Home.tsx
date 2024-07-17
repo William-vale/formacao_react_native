@@ -1,6 +1,6 @@
 import { Text, View } from "react-native";
 import { BatLogo } from "../../components/BatLogo/BatLogo";
-import { BatTextInput } from "../../components/BatTextInput/BatTextInput";
+import { BatButton } from "../../components/BatButton/BatButton";
 import styles from "./Style";
 //import styles from './Style';
 
@@ -12,9 +12,8 @@ export default function Home() {
       </View>
 
       <View style={styles.inputContainer}>
-        <BatTextInput/>
+        <BatButton/>
       </View>
-
 
     </View>
   );
